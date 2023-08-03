@@ -20,14 +20,6 @@ To install the backend dependencies, navigate to the `backend` folder and run th
 npm install
 ```
 
-## Configuration
-
-Before running the project, make sure to set up the following information:
-
-- **Configuration 1**: [Provide details about configuration 1 here]
-- **Configuration 2**: [Provide details about configuration 2 here]
-- ...
-
 ## Running the Project
 
 To start the backend server, run one of the following commands:
@@ -57,5 +49,3 @@ The frontend will be running on port 3000.
 - Node.js
 - React.js
 - Express
-
-Please provide additional information and details in the respective sections to make the README more comprehensive and helpful for users. Also, consider adding instructions on how to use the application and any other relevant information.
